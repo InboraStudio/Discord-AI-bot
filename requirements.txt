@@ -1,0 +1,6 @@
+aiohttp
+discord.py
+google-generativeai
+python-dotenv
+flask
+os
